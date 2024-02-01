@@ -33,11 +33,18 @@ Bark Token (BARK) is a Solana-based token program built with the Anchor framewor
 
 #### Allocation and Distributions
 
-| Allocation          | Percentage             |
+### 2. Allocation and Distributions
+
+| Category            | Percentage             |
 |---------------------|------------------------|
-| Team                | 15%                    |
-| Ecosystem           | 10%                    |
+| Public Sale         | 30%                    |
+| Development         | 20%                    |
+| Core Team           | 15%                    |
 | Reserve             | 5%                     |
+| Liquidity Pool      | 10%                    |
+| Partnership         | 10%                    |
+| Treasury            | 5%                     |
+
 
 #### Vesting Schedule and Terms
 
