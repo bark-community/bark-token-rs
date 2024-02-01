@@ -2,7 +2,7 @@
 
 Bark Token (BARK) is a Solana-based token program built with the Anchor framework, implementing the Solana 2022-Token Standard (Solana Extension). This program is created to manage Bark Tokens, a digital asset on the Solana blockchain, and is driven by community contributions.
 
-## Features
+## Features:
 
 - **Token Creation:** Create Bark Tokens with details such as name, symbol, and maximum supply.
 - **Minting:** Mint additional Bark tokens to the existing supply.
@@ -12,11 +12,7 @@ Bark Token (BARK) is a Solana-based token program built with the Anchor framewor
 
 ## Bark Token (BARK) Tokenomics (draft)
 
-# Bark Token (BARK) Tokenomics
-
-#### Token Details
-
-#### Token Details
+#### Token Details:
 
 | Attribute           | Value                  |
 |---------------------|------------------------|
@@ -30,6 +26,8 @@ Bark Token (BARK) is a Solana-based token program built with the Anchor framewor
 | Fee Percentage      | 2%                     |
 | Treasury Wallet     | 8DosypWP5rR5REnpkjw... |
 | Program Address     | [Program Address] |
+
+**Owner:** bark8LXsP1oCtaFM2KdQpBvXgEVWPZ1nm5hecFFUFeX](https://solscan.io/account/bark8LXsP1oCtaFM2KdQpBvXgEVWPZ1nm5hecFFUFeX
 
 #### Allocation and Distributions
 
