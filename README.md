@@ -10,6 +10,25 @@ Bark Token (BARK) is a Solana-based token program built with the Anchor framewor
 - **Pausing:** Pause and resume Bark token transfers as needed.
 - **Transaction Fees:** Collect transaction fees and distribute them to a "community" treasury wallet.
 
+# Bark Token (BARK) Tokenomics (draft)
+
+## 1. Token Details
+
+| Attribute           | Value                  |
+|---------------------|------------------------|
+| Token Name          | Bark Token (BARK)      |
+| Token Symbol        | BARK                   |
+| Token Decimals      | 9                      |
+| Maximum Supply      | 20,000,000,000         |
+| Burning Rate        | 2% (Quarterly)         |
+| Fee Decimals        | 2                      |
+| Fee Symbol          | BARK_FEE               |
+| Fee Percentage      | 2%                     |
+| Treasury Wallet     | 8DosypWP5rR5REnpkjw... |
+| Team Allocation     | 15%                    |
+| Ecosystem Allocation| 10%                    |
+| Reserve Allocation  | 5%                     |
+
 ## Getting Started
 
 ### Prerequisites
