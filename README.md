@@ -12,7 +12,9 @@ Bark Token (BARK) is a Solana-based token program built with the Anchor framewor
 
 ## Bark Token (BARK) Tokenomics (draft)
 
-**Token Details:**
+# Bark Token (BARK) Tokenomics
+
+#### Token Details
 
 | Attribute           | Value                  |
 |---------------------|------------------------|
@@ -25,9 +27,22 @@ Bark Token (BARK) is a Solana-based token program built with the Anchor framewor
 | Fee Symbol          | BARK_FEE               |
 | Fee Percentage      | 2%                     |
 | Treasury Wallet     | 8DosypWP5rR5REnpkjw... |
-| Team Allocation     | 15%                    |
-| Ecosystem Allocation| 10%                    |
-| Reserve Allocation  | 5%                     |
+
+#### Allocation and Distributions
+
+| Allocation          | Percentage             |
+|---------------------|------------------------|
+| Team                | 15%                    |
+| Ecosystem           | 10%                    |
+| Reserve             | 5%                     |
+
+#### Vesting Schedule and Terms
+
+| Category            | Vesting Period         | Cliff Period           |
+|---------------------|------------------------|------------------------|
+| Team                | 3 years                | 1 year                 |
+| Ecosystem           | 2 years                | None                   |
+| Reserve             | 1 year                 | None                   |
 
 ## Getting Started
 
