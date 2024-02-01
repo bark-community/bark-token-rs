@@ -16,6 +16,8 @@ Bark Token (BARK) is a Solana-based token program built with the Anchor framewor
 
 #### Token Details
 
+#### Token Details
+
 | Attribute           | Value                  |
 |---------------------|------------------------|
 | Token Name          | Bark Token (BARK)      |
@@ -27,6 +29,7 @@ Bark Token (BARK) is a Solana-based token program built with the Anchor framewor
 | Fee Symbol          | BARK_FEE               |
 | Fee Percentage      | 2%                     |
 | Treasury Wallet     | 8DosypWP5rR5REnpkjw... |
+| Program Address     | [Program Address] |
 
 #### Allocation and Distributions
 
