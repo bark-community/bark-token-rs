@@ -58,7 +58,11 @@ Bark Token (BARK) is a Solana-based token program built with the Anchor framewor
 
 ### Prerequisites
 
+Before you begin, make sure you have the following tools installed:
+
 - [Rust](https://www.rust-lang.org/)
+- [Solana CLI](https://docs.solana.com/cli/install)
+- [Anchor](https://project-serum.github.io/anchor/getting-started/installation.html)
 
 ### Installation
 
