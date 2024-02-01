@@ -10,9 +10,9 @@ Bark Token (BARK) is a Solana-based token program built with the Anchor framewor
 - **Pausing:** Pause and resume Bark token transfers as needed.
 - **Transaction Fees:** Collect transaction fees and distribute them to a "community" treasury wallet.
 
-# Bark Token (BARK) Tokenomics (draft)
+## Bark Token (BARK) Tokenomics (draft)
 
-## 1. Token Details
+**Token Details:**
 
 | Attribute           | Value                  |
 |---------------------|------------------------|
