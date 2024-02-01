@@ -7,8 +7,8 @@ use spl_token::state::{Account as TokenAccount, Mint};
 use spl_transfer_hook_interface::collect_extra_account_metas_signer_seeds;
 use spl_transfer_hook_interface::instruction::ExecuteInstruction;
 
-// Declare the unique program identifier for Solana Token-2022 Program
-declare_id!("A3kVUhYP8SdZRN9VjqXpS2vVbE4BQkj9BK7cgFmX1NGQ");
+// Declare the unique program identifier for the Solana Token-2022 Program
+declare_id!("bark8LXsP1oCtaFM2KdQpBvXgEVWPZ1nm5hecFFUFeX");
 
 // Sha256(spl-transfer-hook-interface:execute)[..8]
 pub const EXECUTE_IX_TAG_LE: [u8; 8] = [105, 37, 101, 197, 75, 251, 102, 26];
