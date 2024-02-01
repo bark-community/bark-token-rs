@@ -27,7 +27,8 @@ Bark Token (BARK) is a Solana-based token program built with the Anchor framewor
 | Treasury Wallet     | 8DosypWP5rR5REnpkjw... |
 | Program Address     | [Program Address] |
 
-**Owner:** bark8LXsP1oCtaFM2KdQpBvXgEVWPZ1nm5hecFFUFeX](https://solscan.io/account/bark8LXsP1oCtaFM2KdQpBvXgEVWPZ1nm5hecFFUFeX
+**Owner:** bark8LXsP1oCtaFM2KdQpBvXgEVWPZ1nm5hecFFUFeX 
+Link: https://solscan.io/account/bark8LXsP1oCtaFM2KdQpBvXgEVWPZ1nm5hecFFUFeX
 
 #### Allocation and Distributions
 
