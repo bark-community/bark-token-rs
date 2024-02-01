@@ -120,6 +120,21 @@ Before you begin, make sure you have the following tools installed:
     ```bash
     solana-tokens collect-fees --treasury <TREASURY_ADDRESS> --state <STATE_ADDRESS>
     ```
+## Todo List
+
+### Token Extensions
+
+Mint extensions to be implemented:
+
+- [ ] **Confidential Transfers**
+- [ ] **Transfer Fees**
+- [ ] **Closing Mint**
+- [ ] **Interest-bearing Tokens**
+- [ ] **Non-transferable Tokens**
+- [ ] **Permanent Delegate**
+- [ ] **Transfer Hook**
+- [ ] **Metadata Pointer**
+- [ ] **Metadata**
 
 ## Contributing
 
