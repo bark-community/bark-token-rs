@@ -23,7 +23,7 @@ Bark Token (BARK) is a Solana-based token program built with the Anchor framewor
 | Burning Rate        | 2% (Quarterly)         |
 | Fee Decimals        | 2                      |
 | Fee Symbol          | BARK_FEE               |
-| Fee Percentage      | 2%                     |
+| Fee Percentage      | 2.5%                   |
 | Treasury Wallet     | 8DosypWP5rR5REnpkjw... |
 | Program Address     | [Program Address] |
 
