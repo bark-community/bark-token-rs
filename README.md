@@ -1,3 +1,5 @@
+![Bark Token Logo](bark.png) 
+
 # Bark Token Program
 
 Bark Token (BARK) is a Solana-based token program built with the Anchor framework, implementing the Solana 2022-Token Standard (Solana Extension). This program is created to manage Bark Tokens, a digital asset on the Solana blockchain, and is driven by community contributions.
