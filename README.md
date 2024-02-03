@@ -8,6 +8,7 @@ Bark Token (BARK) is a Solana-based token program built with the Anchor framewor
 - **Minting:** Mint additional Bark tokens to the existing supply.
 - **Burning:** Burn Bark tokens to reduce the total supply.
 - **Pausing:** Pause and resume Bark token transfers as needed.
+- **Treasury:**
 - **Transaction Fees:** Collect transaction fees and distribute them to a "community" treasury wallet. The Bark´s Solana 2022 Token "TransferFee" extension allows you to configure a transfer fee directly on the Mint Account, enabling fees to be collected at a protocol level. Every time tokens are transferred, the fee is set aside in the recipient's Token Account. This fee is untouchable by the recipient and can only be accessed by the withdrawal authority. The design of pooling transfer fees at the recipient account is meant to maximize the parallelization of transactions. Otherwise, one configured fee recipient account would be write-locked between parallel transfers, decreasing the throughput of the protocol.
 
 ## Bark Token (BARK) Tokenomics (draft)
