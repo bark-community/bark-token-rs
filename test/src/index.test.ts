@@ -4,7 +4,7 @@ describe("Test", () => {
     const balance = await pg.connection.getBalance(pg.wallet.publicKey);
     console.log(`My balance is ${balance} lamports`);
 
-    // Airdrop 1 SOL
+    // Airdrop 2 SOL
     const airdropAmount = 1 * web3.LAMPORTS_PER_SOL;
     const txHash = await pg.connection.requestAirdrop(
       pg.wallet.publicKey,
